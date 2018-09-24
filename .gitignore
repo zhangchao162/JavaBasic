@@ -1,0 +1,9 @@
+*.class
+shopManagementClient
+.metadata
+.recommenders
+.settings
+.classpath
+.project
+*.properties
+

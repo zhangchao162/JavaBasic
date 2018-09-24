@@ -1,0 +1,2 @@
+名称：shopServer
+功能：socket协议的server端。接收用户端client发送过来的数据信息，实现对产品数据库的操作（增、删、改、查）。
